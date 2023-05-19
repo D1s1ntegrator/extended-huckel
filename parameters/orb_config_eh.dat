@@ -1,0 +1,118 @@
+H	1s2
+He	1s2
+Li	2s2	2p6
+Be	2s2	2p6
+B	2s2	2p6
+C	2s2	2p6
+N	2s2	2p6
+O	2s2	2p6
+F	2s2	2p6
+Ne	2s2	2p6
+Na	3s2	3p6
+Mg	3s2	3p6
+Al	3s2	3p6
+Si	3s2	3p6
+P	3s2	3p6
+S	3s2	3p6
+Cl	3s2	3p6
+Ar	3s2	3p6
+K	4s2	4p6
+Ca	4s2	4p6
+Sc	3d10	4s2	4p6
+Ti	3d10	4s2	4p6
+V	3d10	4s2	4p6
+Cr	3d10	4s2	4p6
+Mn	3d10	4s2	4p6
+Fe	3d10	4s2	4p6
+Co	3d10	4s2	4p6
+Ni	3d10	4s2	4p6
+Cu	3d10	4s2	4p6
+Zn	3d10	4s2	4p6
+Ga	4s2	4p6
+Ge	4s2	4p6
+As	4s2	4p6
+Se	4s2	4p6
+Br	4s2	4p6
+Kr	4s2	4p6
+Rb	5s2	5p6
+Sr	5s2	5p6
+Y	4d10	5s2	5p6
+Zr	4d10	5s2	5p6
+Nb	4d10	5s2	5p6
+Mo	4d10	5s2	5p6
+Tc	4d10	5s2	5p6
+Ru	4d10	5s2	5p6
+Rh	4d10	5s2	5p6
+Pd	4d10	5s2	5p6
+Ag	4d10	5s2	5p6
+Cd	4d10	5s2	5p6
+In	5s2	5p6
+Sn	5s2	5p6
+Sb	5s2	5p6
+Te	5s2	5p6
+I	5s2	5p6
+Xe	5s2	5p6
+Cs	6s2	6p6
+Ba	6s2	6p6
+La	5d10	6s2	6p6
+Ce	5d10	6s2	6p6
+Pr	5d10	6s2	6p6
+Nd	5d10	6s2	6p6
+Pm	5d10	6s2	6p6
+Sm	5d10	6s2	6p6
+Eu	5d10	6s2	6p6
+Gd	5d10	6s2	6p6
+Tb	5d10	6s2	6p6
+Dy	5d10	6s2	6p6
+Ho	5d10	6s2	6p6
+Er	5d10	6s2	6p6
+Tm	5d10	6s2	6p6
+Yb	5d10	6s2	6p6
+Lu	5d10	6s2	6p6
+Hf	5d10	6s2	6p6
+Ta	5d10	6s2	6p6
+W	5d10	6s2	6p6
+Re	5d10	6s2	6p6
+Os	5d10	6s2	6p6
+Ir	5d10	6s2	6p6
+Pt	5d10	6s2	6p6
+Au	5d10	6s2	6p6
+Hg	5d10	6s2	6p6
+Tl	6s2	6p6
+Pb	6s2	6p6
+Bi	6s2	6p6
+Po	6s2	6p6
+At	6s2	6p6
+Rn	6s2	6p6
+Fr	7s2	7p6
+Ra	7s2	7p6
+Ac	6d10	7s2	7p6
+Th	6d10	7s2	7p6
+Pa	6d10	7s2	7p6
+U	6d10	7s2	7p6
+Np	6d10	7s2	7p6
+Pu	6d10	7s2	7p6
+Am	6d10	7s2	7p6
+Cm	6d10	7s2	7p6
+Bk	6d10	7s2	7p6
+Cf	6d10	7s2	7p6
+Es	6d10	7s2	7p6
+Fm	6d10	7s2	7p6
+Md	6d10	7s2	7p6
+No	6d10	7s2	7p6
+Lr	6d10	7s2	7p6
+Rf	6d10	7s2	7p6
+Db	6d10	7s2	7p6
+Sg	6d10	7s2	7p6
+Bh	6d10	7s2	7p6
+Hs	6d10	7s2	7p6
+Mt	6d10	7s2	7p6
+Ds	6d10	7s2	7p6
+Rg	6d10	7s2	7p6
+Cn	6d10	7s2	7p6
+Nh	7s2	7p6
+Fl	7s2	7p6
+Mc	7s2	7p6
+Lv	7s2	7p6
+Ts	7s2	7p6
+Og	7s2	7p6
